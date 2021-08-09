@@ -3,4 +3,4 @@
 ### 3) Run kısmında, VM Options kısmına, 
 ### --module-path {javafx-sdk-11.0.2/lib konumu} --add-modules=javafx.controls,javafx.fxml
 ### eklenmeli.
-<span style="color:blue">some *blue* text</span>
+# INTELIJJ IDEA KULLANIMI İŞİNİZİ KOLAYLAŞTIRABİLİR
